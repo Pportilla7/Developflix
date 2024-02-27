@@ -1,0 +1,13 @@
+{
+  "name": "developflix",
+  "version": "1.0.0",
+  "type": "module", 
+  "description": "Este es un proyecto web que muestra una lista de películas filtradas por género.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

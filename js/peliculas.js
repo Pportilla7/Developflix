@@ -400,4 +400,4 @@ const peliculas = [
   }
 ]
 
-export default peliculas
+export default peliculas;
